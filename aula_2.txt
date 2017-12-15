@@ -1,0 +1,18 @@
+Conceitos Básicos:
+
+- Javascript (Linguagem de script)
+- Browser (Ambiente de hospedagem)
+- Objetos (Propriedades e Metodos)
+
+Pessoa
+    Propriedade: altura, peso, profissao
+    Método: andar(), dormir(), trabalhar()
+
+Pessoa.altura;
+Pessoa.andar();
+
+Objetos Javascript:
+
+- Objetos Internos (string, date, number)
+- Objetos do Browser (window, document)
+- Objetos Personalizados ex. Pessoa
